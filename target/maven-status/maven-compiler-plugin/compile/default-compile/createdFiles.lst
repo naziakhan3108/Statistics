@@ -1,0 +1,8 @@
+com\n26\statistics\controller\StatisticsController.class
+com\n26\statistics\entity\Statistics.class
+com\n26\statistics\entity\Summary.class
+com\n26\statistics\StatisticsApp.class
+com\n26\statistics\service\StatisticsService.class
+com\n26\statistics\service\StatisticsServiceBean$StatAlreadyExpired.class
+com\n26\statistics\service\StatisticsServiceBean.class
+com\n26\statistics\service\StatisticsServiceBean$StatisticsOperation.class
